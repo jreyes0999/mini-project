@@ -1,4 +1,5 @@
- (Links to an external site.)Phase 1: Design and Layout, JavaScript Reflection Objects
+Phase 1: Design and Layout, JavaScript Reflection Objects
+
 For this project you will develop the following:
 
 Use JavaScript prompts for entering Reflections into your journal
